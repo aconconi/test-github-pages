@@ -1,2 +1,2 @@
-# test.github.io
+# test-github-pages
 Testing github pages
